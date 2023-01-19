@@ -5,10 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Agate - Crew/Downloads/BananaCollectorStarter/Content/BananaCollector/Blueprints/BP_Player.uasset",
-				"C:/Users/Agate - Crew/Downloads/BananaCollectorStarter/Content/BananaCollector/Blueprints/GM_Tutorial.uasset",
-				"C:/Users/Agate - Crew/Downloads/BananaCollectorStarter/Content/BananaCollector/Maps/TutorialMap.umap",
-				"C:/Users/Agate - Crew/Downloads/BananaCollectorStarter/Content/BananaCollector/Blueprints/BP_Banana.uasset"
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/BananaProject/BananaCollector/Content/BananaCollector/Materials/M_Banana.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/BananaProject/BananaCollector/Content/BananaCollector/Materials/MI_Banana_Green.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/BananaProject/BananaCollector/Content/BananaCollector/Materials/MI_Banana_Purple.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/BananaProject/BananaCollector/Content/BananaCollector/Maps/TutorialMap.umap",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/BananaProject/BananaCollector/Content/BananaCollector/Materials/M_Cube.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/BananaProject/BananaCollector/Content/BananaCollector/Blueprints/BP_Player.uasset"
 			]
 		}
 	]
