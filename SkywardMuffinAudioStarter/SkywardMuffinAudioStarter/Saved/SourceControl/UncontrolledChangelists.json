@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Music.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Walk.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Pop_Cue.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Blueprints/BP_Cloud.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Rain.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Footstep.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Effect_Class.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Music_Class.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/UI/WBP_Options.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Volume_Mix.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Maps/TutorialMap.umap",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SkywardMuffinAudioStarter/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/NewEndpointSubmix.uasset"
+			]
+		}
+	]
+}
