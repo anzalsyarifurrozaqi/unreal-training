@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Maps/TutorialMap.umap",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Materials/M_Particle.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Enemy.uasset",
+				"C:/Users/zaqi/Documents/Agate/Project/Unreal/unreal-training/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/NewNiagaraEmitter.uasset"
+			]
+		}
+	]
+}
